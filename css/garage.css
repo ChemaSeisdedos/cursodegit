@@ -21,8 +21,8 @@ h1 {
 	margin-left: 50px;
 	text-shadow: 1px 1px 1px #000000;
 }
-h2 { text-align: center; padding: 5px; margin: 10px; background: #fff2b6; color: #398138; }
- 
+h2 { text-align: center; padding: 5px; margin: 10px; background: #fff2b6; color: red; }
+
 #garagedoor {
 	list-style: none;
 	background: url(../images/menu-bg.jpg) no-repeat;
@@ -52,16 +52,16 @@ h2 { text-align: center; padding: 5px; margin: 10px; background: #fff2b6; color:
 }
 
 #garagedoor li#shutter1 {
-	background: url(../images/shutter-africanplains.jpg) 0 0 no-repeat; 
+	background: url(../images/shutter-africanplains.jpg) 0 0 no-repeat;
 }
 #garagedoor li#shutter2 {
-	background: url(../images/shutter-reptiles.jpg) 0 0 no-repeat; 
+	background: url(../images/shutter-reptiles.jpg) 0 0 no-repeat;
 }
 #garagedoor li#shutter3 {
-	background: url(../images/shutter-aviary.jpg) 0 0 no-repeat; 
+	background: url(../images/shutter-aviary.jpg) 0 0 no-repeat;
 }
 #garagedoor li#shutter4 {
-	background: url(../images/shutter-arcticzone.jpg) 0 0 no-repeat; 
+	background: url(../images/shutter-arcticzone.jpg) 0 0 no-repeat;
 }
 #garagedoor a {
    width: 200px;
